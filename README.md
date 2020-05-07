@@ -1,13 +1,22 @@
-# hello--world
-learning
-
-hi I'm krishna an environmental systems engineer graduated from UofR 2019 passout.
-<DOCTYPE HTML>
-<HTML>
+<!DOCTYPE html>
 <head>
-<title> my webpage! </title>
-</head>
-<body>
-Hello, World! again and again for everyone
+<title>My Web Page! </title>
+<style>
+div {
+	background - color: yellow;
+	width:500px;
+	height : 400px;
+	padding : 40px;
+}
+  </style>
+
+	</head>
+  <body>
+<div>
+<h1 style = “color: blue;
+	text- align: center;
+ Welcome to My Web Page!</h1>
+ <p> Hello World</p>
+</div>
 </body>
-</HTML>
+</html>
